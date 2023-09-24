@@ -24,12 +24,9 @@ npm run install
 npm run start dev
 Open your browser and navigate to localhost 3001
 
-## Credit:
-
-The magnificent tutor Taskinoz!
-
-
-
 ## License:
  Please refer to the LICENSE in the repo. The content might differ slightly
 
+## Credit:
+
+The magnificent tutor Taskinoz!
